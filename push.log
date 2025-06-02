@@ -1,0 +1,29 @@
+time="2025-05-31T20:36:49-04:00" level=debug msg="otel error" error="1 errors occurred detecting resource:\n\t* conflicting Schema URL: https://opentelemetry.io/schemas/1.21.0 and https://opentelemetry.io/schemas/1.26.0"
+Using default tag: latest
+The push refers to repository [docker.io/techsysvbo/go-web-app]
+eb8fdca51132: Preparing
+cebaee1b0047: Preparing
+0711ad304a05: Preparing
+d5a3e014161b: Preparing
+b336e209998f: Preparing
+f4aee9e53c42: Preparing
+1a73b54f556b: Preparing
+2a92d6ac9e4f: Preparing
+bbb6cacb8c82: Preparing
+6f1cdceb6a31: Preparing
+af5aa97ebe6c: Preparing
+4d049f83d9cf: Preparing
+48c0fb67386e: Preparing
+8fa10c0194df: Preparing
+f464af4b9b25: Preparing
+f4aee9e53c42: Waiting
+1a73b54f556b: Waiting
+2a92d6ac9e4f: Waiting
+bbb6cacb8c82: Waiting
+6f1cdceb6a31: Waiting
+48c0fb67386e: Waiting
+8fa10c0194df: Waiting
+af5aa97ebe6c: Waiting
+4d049f83d9cf: Waiting
+f464af4b9b25: Waiting
+denied: requested access to the resource is denied
