@@ -8,8 +8,8 @@ image:
   repository: techsysvbo/go-web-app #:v1
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  #tag: "15405363170"
-  tag: "15405363170"
+  #tag: "15405384066"
+  tag: "15405384066"
 
 ingress:
   enabled: false
